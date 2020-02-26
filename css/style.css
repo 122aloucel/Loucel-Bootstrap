@@ -1,7 +1,13 @@
-div div {
-  background-color: #e70012;
-  border: 2px solid #4a0500;
+div .col-lg-12 {
+  background-color: #BFBFBF;
+  border: 2px solid #000000;
 }
 div .tall {
   height: 450px;
+}
+.logo {
+  width:75px;
+}
+.whole-ass-navbar {
+  background-color:#BFBFBF;
 }
