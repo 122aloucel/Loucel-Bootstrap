@@ -14,3 +14,7 @@ div .tall {
 body {
   background-color: #FFFFFC;
 }
+a {
+  font-style: normal;
+  color: #ffffff;
+}
