@@ -18,3 +18,10 @@ a {
   font-style: normal;
   color: #ffffff;
 }
+.form-group {
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.btn {
+  margin-left: 30px;
+}
