@@ -25,3 +25,19 @@ a {
 .btn {
   margin-left: 30px;
 }
+.btn-primary {
+  background-color: #E70012;
+}
+
+button:link {
+  background-color: #E70012;
+}
+button:visited {
+  background-color: #E70012;
+}
+button:hover {
+  background-color: #E70012;
+}
+button:active {
+  background-color: #BFBFBF;
+}
